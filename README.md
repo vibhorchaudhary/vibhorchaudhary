@@ -22,6 +22,8 @@ This is the place where I opensource stuff and break things 🤣
 <br />
 <br />
 
+### Automated GitHub Stats:
+
 ![Vibhor Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=vibhorchaudhary&show_icons=true&theme=dracula&count_private=true&hide=contribs,issues)
 
 
