@@ -24,7 +24,7 @@ This is the place where I opensource stuff and break things 🤣
 
 ### Automated GitHub Stats:
 
-![Vibhor Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=vibhorchaudhary&show_icons=true&theme=dracula&count_private=true&hide=contribs,issues)
+![Vibhor Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=vibhorchaudhary&show_icons=true&theme=dracula&count_private=true&hide=contribs,issues&include_all_commits=true)
 
 
 <br />
