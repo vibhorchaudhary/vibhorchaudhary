@@ -10,3 +10,21 @@ This is the place where I opensource stuff and break things 🤣
 - 👯 I’m looking to collaborate on more open source projectes.
 - 💬 Ask me anything related to Android application Development, Android Custom Operating System Development, Java, iOS Development, Swift, Javascript & Spring.
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
+
+### Connect with me:
+
+[<img align="left" alt="vibhorchaudhary" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="vibhorchaudhary | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="vibhorchaudhary | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+<br />
+
+
+
+[website]: https://forum.xda-developers.com/member.php?u=5991465
+[linkedin]: https://linkedin.com/in/vibhorchaudhary
+[instagram]: https://www.instagram.com/mr.vibhorchaudhary/
+[twitter]: https://twitter.com/vibhorchaudhry
+[facebook]: https://www.facebook.com/vibhorchaudhary
