@@ -20,8 +20,12 @@ This is the place where I opensource stuff and break things 🤣
 [<img align="left" alt="vibhorchaudhary | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
+<br />
 
+[![Vibhor Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=vibhorchaudhary)](https://github.com/anuraghazra/github-readme-stats&hide=&count_private=true&show_icons=true&theme=tokyonight)
 
+<br />
+<br />
 
 [website]: https://forum.xda-developers.com/member.php?u=5991465
 [linkedin]: https://linkedin.com/in/vibhorchaudhary
