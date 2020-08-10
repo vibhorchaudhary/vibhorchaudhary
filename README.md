@@ -27,8 +27,6 @@ This is the place where I opensource stuff and break things 🤣
 
 ![Vibhor Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=vibhorchaudhary&show_icons=true&theme=dracula&count_private=true&hide=contribs,issues&include_all_commits=true)
 
-<br />
-<br />
 
 [website]: https://forum.xda-developers.com/member.php?u=5991465
 [linkedin]: https://linkedin.com/in/vibhorchaudhary
