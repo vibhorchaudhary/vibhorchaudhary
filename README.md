@@ -7,7 +7,7 @@ This is the place where I opensource stuff and break things 🤣
 
 - 🔭 I’m currently working on something really cool 😉
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on more open source projectes.
+- 👯 I’m looking to collaborate on more open source projects.
 - 💬 Ask me anything [here](https://github.com/vibhorchaudhary/vibhorchaudhary/issues) related to Android application Development, Android Custom Operating System Development, Java, iOS Development, Swift, Javascript & Spring.
 - 📫 How to reach me: [@vibhorchaudhary][linkedin] or say 👋 on Email at [Vibhor Chaudhary](mailto:vibhorchaudhary@yahoo.com)
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
