@@ -48,6 +48,7 @@ This is the place where I opensource stuff and break things 🤣
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Impressive GitHub Profile README](https://medium.com/@mr.vibhorchaudhary/impressive-github-profile-readme-606e3b7b075d?source=rss-30c08688da0e------2)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://forum.xda-developers.com/member.php?u=5991465
