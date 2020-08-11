@@ -43,9 +43,12 @@ This is the place where I opensource stuff and break things 🤣
 <br />
 <br />
 
-### GitHub Stats:
+### 📊 GitHub Stats:
 ![Vibhor Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=vibhorchaudhary&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues)
 
+### 📕 Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://forum.xda-developers.com/member.php?u=5991465
 [linkedin]: https://linkedin.com/in/vibhorchaudhary
