@@ -20,6 +20,7 @@ This is the place where I opensource stuff and break things 🤣
 [<img align="left" alt="vibhorchaudhary | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="vibhorchaudhary | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="vibhorchaudhary | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -52,3 +53,4 @@ This is the place where I opensource stuff and break things 🤣
 [twitter]: https://twitter.com/vibhorchaudhry
 [facebook]: https://www.facebook.com/vibhorchaudhary
 [github]: https://github.com/vibhorchaudhary
+[telegram]: https://t.me/mrvibhorchaudhary
