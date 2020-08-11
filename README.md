@@ -46,7 +46,7 @@ This is the place where I opensource stuff and break things 🤣
 ### 📊 GitHub Stats:
 ![Vibhor Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=vibhorchaudhary&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues)
 
-### 📕 Latest Blog posts
+### 📕 Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Impressive GitHub Profile README](https://medium.com/@mr.vibhorchaudhary/impressive-github-profile-readme-606e3b7b075d?source=rss-30c08688da0e------2)
 <!-- BLOG-POST-LIST:END -->
