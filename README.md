@@ -57,4 +57,4 @@ This is the place where I opensource stuff and break things 🤣
 [twitter]: https://twitter.com/vibhorchaudhry
 [facebook]: https://www.facebook.com/vibhorchaudhary
 [github]: https://github.com/vibhorchaudhary
-[telegram]: https://t.me/mrvibhorchaudhary
+[telegram]: https://t.me/vibhorchaudhary
